@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ordercollection>
+    <Codes>
+            <Codeclient>50000</Codeclient>
+            <Codeclienttiragedirect>60066</Codeclienttiragedirect>
+    </Codes>
+
+    <Clientfacture>
+        <Prenom>Marcel</Prenom>
+        <Nom>Lacombe</Nom>
+        <RaisonSociale></RaisonSociale>
+        <Adresse1>Occam Court, 1</Adresse1>
+        <Adresse2>Surrey</Adresse2>
+        <Codepostal>75008</Codepostal>
+        <Ville>Paris</Ville>
+        <Pays>France</Pays>    
+    </Clientfacture>
+
+    <Clientlivre>
+        <Prenom>Marcel</Prenom>
+        <Nom>Lacombe</Nom>
+        <RaisonSociale></RaisonSociale>
+        <Adresse1>Occam Court, 1</Adresse1>
+        <Adresse2>Surrey</Adresse2>
+        <Codepostal>75008</Codepostal>
+        <Ville>Paris</Ville>
+        <Pays>France</Pays>
+    </Clientlivre>
+
+    <Client>
+        <Civilite>Mr.</Civilite>
+        <RaisonSociale></RaisonSociale>
+        <Nom>Lacombe</Nom>
+        <Prenom>Marcel</Prenom>
+        <profession>A</profession>
+    </Client>
+
+    <Infoscommande>
+        <Datecommande>27/10/2023</Datecommande>
+        <Numerocommande>457133</Numerocommande>
+        <MontantpayeHT>145 €</MontantpayeHT>
+        <MontantpayeTTC>181 €</MontantpayeTTC>
+    </Infoscommande>
+
+    <Infosarticles>
+            <Infoarticle>                                                                                                       
+                        <Codearticle>25TJA04</Codearticle>
+                        <Designation>Tirage Couleur Lambda sur RC Satiné - 20 × 85 cm</Designation>
+                        <Quantite>1</Quantite>
+                        <MontantHT>5 €</MontantHT>
+                        <MontantTTC>6 €</MontantTTC>
+            </Infoarticle>
+            <Infoarticle>
+                        <Codearticle>25TJA04</Codearticle>
+                        <Designation>Tirage Couleur Lambda sur RC Satiné - 35 × 48,1 cm</Designation>
+                        <Quantite>4</Quantite>
+                        <MontantHT>20 €</MontantHT>
+                        <MontantTTC>25 €</MontantTTC>
+            </Infoarticle>
+            <Infoarticle>
+                        <Codearticle>25TJA04</Codearticle>
+                        <Designation>Tirage Couleur Lambda sur RC Satiné - 130 × 145,1 cm</Designation>
+                        <Quantite>6</Quantite>
+                        <MontantHT>120 €</MontantHT>
+                        <MontantTTC>150 €</MontantTTC>
+            </Infoarticle>
+    </Infosarticles>
+</ordercollection>

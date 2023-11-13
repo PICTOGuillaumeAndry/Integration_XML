@@ -1,0 +1,17 @@
+{
+    "name": "Nom de fichier",
+    "description": "Erreur sur le nom du fichier qui ne suit pas les bonnes pratiques Microsoft",
+    "rules": [
+        {
+            "id": "AA0215",
+            "action": "Hidden",
+            "justification": "On renomme automatiquement"
+        },
+
+        {
+            "id": "AA0072",
+            "action": "Hidden",
+            "justification": "On renomme automatiquement"
+        }
+    ]
+}
