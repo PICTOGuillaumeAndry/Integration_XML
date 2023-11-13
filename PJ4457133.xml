@@ -8,7 +8,7 @@
     <Clientfacture>
         <Prenom>Marcel</Prenom>
         <Nom>Lacombe</Nom>
-        <RaisonSociale></RaisonSociale>
+        <RaisonSociale>Relecloud</RaisonSociale>
         <Adresse1>Occam Court, 1</Adresse1>
         <Adresse2>Surrey</Adresse2>
         <Codepostal>75008</Codepostal>
@@ -19,7 +19,7 @@
     <Clientlivre>
         <Prenom>Marcel</Prenom>
         <Nom>Lacombe</Nom>
-        <RaisonSociale></RaisonSociale>
+        <RaisonSociale>Relecloud</RaisonSociale>
         <Adresse1>Occam Court, 1</Adresse1>
         <Adresse2>Surrey</Adresse2>
         <Codepostal>75008</Codepostal>
@@ -29,7 +29,7 @@
 
     <Client>
         <Civilite>Mr.</Civilite>
-        <RaisonSociale></RaisonSociale>
+        <RaisonSociale>Relecloud</RaisonSociale>
         <Nom>Lacombe</Nom>
         <Prenom>Marcel</Prenom>
         <profession>A</profession>
